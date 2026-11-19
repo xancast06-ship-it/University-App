@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCourseRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCreateSection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDropClasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmManageCourses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmManageEnrollment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmManageProfessors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmManageRequests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmManageSections.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmManageStudents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMyGrades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMySchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMySections.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPersonnelDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmProfessorDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSearchClasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmStudentDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSubmitGrades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmViewRosters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
